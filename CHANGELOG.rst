@@ -1,3 +1,17 @@
+0.4.0 - February 23, 2024
+-------------------------
+
+* feat: :meth:`.Chart.add_line` accepts a `stroke_dasharray argument <https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-dasharray>`_.
+* feat: Add a ``default_stroke_dasharray`` theme option.
+* fix: Apply the ``axis_title_font_size`` and ``tick_font_size`` theme options.
+
+0.3.5 - October 23, 2023
+------------------------
+
+* Leather no longer reconfigures Python warnings globally.
+* Add Python 3.11 and 3.12 support.
+* Drop Python 3.7 support (end-of-life was June 27, 2023).
+
 0.3.4 - October 8, 2021
 -----------------------
 
